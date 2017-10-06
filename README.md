@@ -2,4 +2,4 @@
 An Electronic Password Lock Based on Max+ Plus ⅱ and VHDL 
 
 
-The electronic lock has 4 digits, each of the 8 choice, when to enter the correct password 4, green light, red light said unlocking state; when 5 seconds after the first touch button can not open the lock, then the green light, red light and alarm signal. Using counters, flip flops, decoding circuit and other aspects of knowledge, from the design, selection, wiring, debugging, troubleshooting the entire process.
+The electronic code lock has 4 passwords, each password has 8 choices. When you enter the correct 4 bit password, the lock open, while the green light shining, red lights out; if you can not open the lock, after the first button touched 5 seconds, then send an alarm signal, while the green lights out, red light. With the knowledge of counters, flip flops and decoding circuits, the whole process of design, selection, connection, debugging and troubleshooting is realized.
